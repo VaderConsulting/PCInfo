@@ -20,6 +20,11 @@ PCInfo is a Visual Studio VB.NET Windows service (`PCInfo Service`) that periodi
 
 Open `PCInfoService/PCInfoService.sln` in Visual Studio.
 
+## Requirements
+
+- Visual Studio .NET 2003
+- .NET Framework 1.1
+
 ## Attribution and provenance
 
 From Dave Robinson's Historical Dev archive (OneDrive folder `PCInfo`). TCP samples use a documented localhost demo key, not production credentials.
