@@ -1,6 +1,6 @@
 # PCInfo
 
-PCInfo is a Visual Studio VB.NET Windows service (`PCInfo Service`) that periodically reads config and uses WMI `Win32_Process` plus TCP send/receive helpers. Companion projects TCPSend and TCPReceive wrap Rijndael over a localhost TCP stream (demo key/IV). A Test WinForms project exercises process/logon helpers. It is Dave Robinson's working copy from Historical Dev.
+PCInfo is a Visual Studio VB.NET Windows service (`PCInfo Service`) that periodically reads config and uses WMI `Win32_Process` plus TCP send/receive helpers. Companion projects TCPSend and TCPReceive wrap Rijndael over a localhost TCP stream (demo key/IV). A Test WinForms project exercises process/logon helpers. It is my working copy from Historical Dev.
 
 **Source last updated:** 2005-07-29  
 **Language:** VB.NET  
